@@ -1,2 +1,1 @@
-# alumot-presentation
-PPTX for Alumot
+DELETE THIS
